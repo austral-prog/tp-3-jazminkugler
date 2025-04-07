@@ -1,4 +1,3 @@
-def check_vowels():
     print (f'Contiene a: {'a' in nombre}')
     print (f'Contiene e: {'e' in nombre}')
     print (f'Contiene i: {'i' in nombre}')
